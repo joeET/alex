@@ -1,9 +1,12 @@
 {
-  "name": "alex",
+  "name": "@joeet/alex",
   "version": "9.1.0",
   "description": "Catch insensitive, inconsiderate writing",
   "license": "MIT",
-  "repository": "https://github.com/get-alex/alex",
+  "repository": {
+	  "type": "git",
+	  "url": "https://github.com/joeET/alex"
+  },
   "bugs": "https://github.com/get-alex/alex/issues",
   "funding": {
     "url": "https://github.com/sponsors/wooorm"
